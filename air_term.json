@@ -1,0 +1,39 @@
+{
+  "_control": {
+    "mode": {
+      "_caption": "Режим работы",
+      "_type": "ENUMERATE",
+      "_states": [
+        "Авто.",
+        "Вкл.",
+        "Откл."
+      ]
+    },
+    "gap": {
+      "_caption": "Порог срабатывания",
+      "_type": "FRACTIONAL"
+    },
+    "hysteresis": {
+      "_caption": "Гистерезис",
+      "_type": "FRACTIONAL"
+    }
+  },
+  "_indication": {
+    "air": {
+      "_caption": "Температура воздуха",
+      "_type": "FRACTIONAL"
+    },
+    "water": {
+      "_caption": "Температура воды",
+      "_type": "FRACTIONAL"
+    },
+    "state": {
+      "_caption": "Циркуляция",
+      "_type": "BOOLEAN",
+      "_states": [
+        "ОТКЛ.",
+        "ВКЛ."
+      ]
+    }
+  }
+}
