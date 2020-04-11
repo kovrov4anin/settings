@@ -1,0 +1,22 @@
+{
+  "host": [
+    "https://www.bestchange.ru/",
+    "https://www.bestchange.com/"
+  ],
+  "name_class": "ca",
+  "value_class": "bi",
+  "user_agent": "Chrome/4.0.249.0 Safari/532.5",
+  "referrer": "http://www.google.com",
+  "services": [
+    {
+      "name": "GoodObmen",
+      "url": "https://goodobmen.com/",
+      "partner": false
+    },
+    {
+      "name": "WW-Pay",
+      "url": "https://ww-pay.com/",
+      "partner": false
+    }
+  ]
+}
