@@ -7,6 +7,7 @@
   "value_class": "bi",
   "user_agent": "Chrome/4.0.249.0 Safari/532.5",
   "referrer": "http://www.google.com",
+  "read_period": 5000,
   "services": [
     {
       "name": "GoodObmen",
@@ -17,6 +18,33 @@
       "name": "WW-Pay",
       "url": "https://ww-pay.com/",
       "partner": false
+    }
+  ],
+  "wallets": [
+    {
+      "service_name": "Сбербанк",
+      "short_name": "RUB",
+      "host_id": "sberbank"
+    },
+    {
+      "service_name": "Яндекс Деньги",
+      "short_name": "RUB",
+      "host_id": "yandex-money"
+    },
+    {
+      "service_name": "Bitcoin",
+      "short_name": "BTC",
+      "host_id": "bitcoin"
+    },
+    {
+      "service_name": "Ethereum",
+      "short_name": "ETH",
+      "host_id": "ethereum"
+    },
+    {
+      "service_name": "Litecoin",
+      "short_name": "LTC",
+      "host_id": "litecoin"
     }
   ]
 }
