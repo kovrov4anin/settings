@@ -5,46 +5,3330 @@
   ],
   "name_class": "ca",
   "value_class": "bi",
-  "user_agent": "Chrome/4.0.249.0 Safari/532.5",
-  "referrer": "http://www.google.com",
-  "read_period": 5000,
+  "read_period": 3000,
   "services": [
     {
-      "name": "GoodObmen",
-      "url": "https://goodobmen.com/",
-      "partner": false
+      "name": "NetEx24",
+      "caption": "NetEx 24",
+      "url": "https://www.netex24.net",
+      "partner": false,
+      "born": 1475226000000,
+      "country": "Россия"
+    },
+    {
+      "name": "WmExpress",
+      "caption": "WmExpress",
+      "url": "https://wm.express",
+      "partner": false,
+      "born": 1441011600000,
+      "country": "Франция"
+    },
+    {
+      "name": "I-Obmen",
+      "caption": "I-Obmen",
+      "url": "https://i-obmen.bz",
+      "partner": false,
+      "born": 1380531600000,
+      "country": "Россия"
+    },
+    {
+      "name": "Касса",
+      "caption": "Касса",
+      "url": "https://kassa.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "365Cash",
+      "caption": "365 Cash",
+      "url": "https://365cash.co",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Шахта",
+      "caption": "Шахта",
+      "url": "https://mine.exchange",
+      "partner": false,
+      "born": 1467277200000,
+      "country": "Россия"
     },
     {
       "name": "WW-Pay",
-      "url": "https://ww-pay.com/",
-      "partner": false
+      "caption": "WW-Pay",
+      "url": "https://ww-pay.com",
+      "partner": false,
+      "born": 1438333200000,
+      "country": "Россия"
+    },
+    {
+      "name": "КэшБанк",
+      "caption": "Кэш Банк",
+      "url": "https://cashbank.pro",
+      "partner": false,
+      "born": 1477904400000,
+      "country": "Польша"
+    },
+    {
+      "name": "Xchange",
+      "caption": "Xchange",
+      "url": "https://xchange.ltd",
+      "partner": false,
+      "born": 1351674000000,
+      "country": "Эстония"
+    },
+    {
+      "name": "NixExchange",
+      "caption": "NixExchange",
+      "url": "https://www.nixexchange.com",
+      "partner": false,
+      "born": 1372582800000,
+      "country": "Украина"
+    },
+    {
+      "name": "F-Change",
+      "caption": "F-Change",
+      "url": "https://f-change.biz",
+      "partner": false,
+      "born": 1464685200000,
+      "country": "Россия"
+    },
+    {
+      "name": "WMGlobus",
+      "caption": "WM Globus",
+      "url": "https://wmglobus.com",
+      "partner": false,
+      "born": 1380531600000,
+      "country": "Россия"
+    },
+    {
+      "name": "NetExchange",
+      "caption": "NetExchange",
+      "url": "https://www.netexchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "D-Obmen",
+      "caption": "D-Obmen",
+      "url": "https://d-obmen.cc",
+      "partner": false,
+      "born": 1298883600000,
+      "country": "Украина"
+    },
+    {
+      "name": "24PayBank",
+      "caption": "24 PayBank",
+      "url": "https://24paybank.net",
+      "partner": false,
+      "born": 1451552400000,
+      "country": "Эстония"
+    },
+    {
+      "name": "WestChange",
+      "caption": "WestChange",
+      "url": "https://westchange.top",
+      "partner": false,
+      "born": 1448874000000,
+      "country": "Франция"
+    },
+    {
+      "name": "NewLine",
+      "caption": "NewLine",
+      "url": "https://newline.online",
+      "partner": false,
+      "born": 1456736400000,
+      "country": "Нидерланды"
+    },
+    {
+      "name": "Ферма",
+      "caption": "Ферма",
+      "url": "https://ferma.cc",
+      "partner": false,
+      "born": 1512032400000,
+      "country": "Люксембург"
+    },
+    {
+      "name": "TytCoin",
+      "caption": "TytCoin",
+      "url": "https://tytcoin.com",
+      "partner": false,
+      "born": 1422694800000,
+      "country": "Россия"
+    },
+    {
+      "name": "BaksMan",
+      "caption": "BaksMan",
+      "url": "https://baksman.org",
+      "partner": false,
+      "born": 1467277200000,
+      "country": "Эстония"
+    },
+    {
+      "name": "1Обмен",
+      "caption": "1 Обмен",
+      "url": "https://1obmen.ru",
+      "partner": false,
+      "born": 1485853200000,
+      "country": "Украина"
+    },
+    {
+      "name": "1WM",
+      "caption": "1 WM",
+      "url": "https://1wm.kz",
+      "partner": false,
+      "born": 1420016400000,
+      "country": "Казахстан"
+    },
+    {
+      "name": "100Btc",
+      "caption": "100 Btc",
+      "url": "https://100btc.pro",
+      "partner": false,
+      "born": 1467277200000,
+      "country": "Россия"
+    },
+    {
+      "name": "FastChange",
+      "caption": "FastChange",
+      "url": "https://fastchange.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "E-Money",
+      "caption": "E-Money",
+      "url": "https://e-money.cc",
+      "partner": false,
+      "born": 1388480400000,
+      "country": "США"
+    },
+    {
+      "name": "Smart-Pays",
+      "caption": "Smart Pays",
+      "url": "https://smart-pays.com",
+      "partner": false,
+      "born": 1443603600000,
+      "country": "Германия"
+    },
+    {
+      "name": "Биток",
+      "caption": "Биток",
+      "url": "https://bitok.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "FlashObmen",
+      "caption": "Flash Obmen",
+      "url": "https://flashobmen.com",
+      "partner": false,
+      "born": 1525078800000,
+      "country": "Россия"
+    },
+    {
+      "name": "Top-Exchange",
+      "caption": "Top Exchange",
+      "url": "https://top-exchange.com",
+      "partner": false,
+      "born": 1519808400000,
+      "country": "Россия"
+    },
+    {
+      "name": "Pocket-Exchange",
+      "caption": "Pocket Exchange",
+      "url": "https://pocket-exchange.com",
+      "partner": false,
+      "born": 1488272400000,
+      "country": "Германия"
+    },
+    {
+      "name": "24Obmin",
+      "caption": "24 Obmin",
+      "url": "https://24obmin.com",
+      "partner": false,
+      "born": 1396256400000,
+      "country": "Украина"
+    },
+    {
+      "name": "BetaTransfer",
+      "caption": "BetaTransfer",
+      "url": "https://betatransfer.net",
+      "partner": false,
+      "born": 1464685200000,
+      "country": "Италия"
+    },
+    {
+      "name": "7Money",
+      "caption": "7 Money",
+      "url": "https://7money.co",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Битокк",
+      "caption": "Битокк",
+      "url": "https://bitokk.net",
+      "partner": false,
+      "born": 1506762000000,
+      "country": "Таиланд"
+    },
+    {
+      "name": "PayGet",
+      "caption": "PayGet",
+      "url": "https://payget.pro",
+      "partner": false,
+      "born": 1490950800000,
+      "country": "Германия"
+    },
+    {
+      "name": "100Монет",
+      "caption": "100 Монет",
+      "url": "https://100monet.pro",
+      "partner": false,
+      "born": 1398848400000,
+      "country": "Швейцария"
+    },
+    {
+      "name": "El-Change",
+      "caption": "El Change",
+      "url": "https://el-change.com",
+      "partner": false,
+      "born": 1472634000000,
+      "country": "Беларусь"
+    },
+    {
+      "name": "ByWare",
+      "caption": "ByWare",
+      "url": "https://byware.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Receive-Money",
+      "caption": "Receive Money",
+      "url": "https://receive-money.biz",
+      "partner": false,
+      "born": 1435654800000,
+      "country": "Великобритания"
+    },
+    {
+      "name": "60сек",
+      "caption": "60 сек",
+      "url": "https://60cek.org",
+      "partner": false,
+      "born": 1483174800000,
+      "country": "Эстония"
+    },
+    {
+      "name": "ProstoCash",
+      "caption": "Prosto Cash",
+      "url": "https://prostocash.com",
+      "partner": false,
+      "born": 1483174800000,
+      "country": "Эстония"
+    },
+    {
+      "name": "Papa-Change",
+      "caption": "Papa-Change",
+      "url": "https://papa-change.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bchange",
+      "caption": "Bchange",
+      "url": "https://bchange.cc",
+      "partner": false,
+      "born": 1509440400000,
+      "country": "Россия"
+    },
+    {
+      "name": "Банкомат",
+      "caption": "Банкомат",
+      "url": "https://bankcomat.org",
+      "partner": false,
+      "born": 1472634000000,
+      "country": "Эстония"
+    },
+    {
+      "name": "Cashex",
+      "caption": "Cashex",
+      "url": "https://cashex.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CryptoHome",
+      "caption": "CryptoHome",
+      "url": "https://cryptohome.me",
+      "partner": false,
+      "born": 1501491600000,
+      "country": "Россия"
+    },
+    {
+      "name": "24BestEx",
+      "caption": "24 BestEx",
+      "url": "https://24bestex.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ImExchanger",
+      "caption": "ImExchanger",
+      "url": "https://imexchanger.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ChangeMoney24",
+      "caption": "ChangeMoney 24",
+      "url": "https://changemoney24.ru",
+      "partner": false,
+      "born": 1438333200000,
+      "country": "Великобритания"
+    },
+    {
+      "name": "YoChange",
+      "caption": "YoChange",
+      "url": "https://yochange.com",
+      "partner": false,
+      "born": 1525078800000,
+      "country": "Франция"
+    },
+    {
+      "name": "HotExchange",
+      "caption": "HotExchange",
+      "url": "https://hotexchange.ru",
+      "partner": false,
+      "born": 1435654800000,
+      "country": "Украина"
+    },
+    {
+      "name": "MonEx",
+      "caption": "MonEx",
+      "url": "https://monex.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "1-Online",
+      "caption": "1 Online",
+      "url": "https://1-online.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "PayMarket",
+      "caption": "PayMarket",
+      "url": "https://paymarket.cc",
+      "partner": false,
+      "born": 1538298000000,
+      "country": "США"
+    },
+    {
+      "name": "WikiPays",
+      "caption": "WikiPays",
+      "url": "https://wikipays.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "SBitcoin",
+      "caption": "SBitcoin",
+      "url": "https://sbitcoin.ru",
+      "partner": false,
+      "born": 1483174800000,
+      "country": "Россия"
+    },
+    {
+      "name": "BitExchanger",
+      "caption": "BitExchanger",
+      "url": "https://bit-exchanger.ru",
+      "partner": false,
+      "born": 1456736400000,
+      "country": "Россия"
+    },
+    {
+      "name": "BelkaPay",
+      "caption": "BelkaPay",
+      "url": "https://belkapay.com",
+      "partner": false,
+      "born": 1420016400000,
+      "country": "Нидерланды"
+    },
+    {
+      "name": "Fex24",
+      "caption": "Fex 24",
+      "url": "https://fex24.com",
+      "partner": false,
+      "born": 1554022800000,
+      "country": "Франция"
+    },
+    {
+      "name": "CoinStart",
+      "caption": "CoinStart",
+      "url": "https://coinstart.cc",
+      "partner": false,
+      "born": 1543568400000,
+      "country": "Люксембург"
+    },
+    {
+      "name": "YChanger",
+      "caption": "YChanger",
+      "url": "https://ychanger.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CoinToCard",
+      "caption": "CoinToCard",
+      "url": "https://cointocard.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ОбменМонет",
+      "caption": "Обмен Монет",
+      "url": "https://obmenmonet.com",
+      "partner": false,
+      "born": 1533027600000,
+      "country": "Польша"
+    },
+    {
+      "name": "UltraObmen",
+      "caption": "Ultra Obmen",
+      "url": "https://ultraobmen.net",
+      "partner": false,
+      "born": 1430384400000,
+      "country": "Украина"
+    },
+    {
+      "name": "Bitochek",
+      "caption": "Bitochek",
+      "url": "https://bitochek.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Иеремия76",
+      "caption": "Иеремия 76",
+      "url": "https://ieremia76.com",
+      "partner": false,
+      "born": 1475226000000,
+      "country": "Украина"
+    },
+    {
+      "name": "VV-Obmen",
+      "caption": "VV Obmen",
+      "url": "https://vv-obmen.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "EuroBitcoins",
+      "caption": "Euro Bitcoins",
+      "url": "https://eurobitcoins.org",
+      "partner": false,
+      "born": 1490950800000,
+      "country": "Великобритания"
+    },
+    {
+      "name": "GoldObmen",
+      "caption": "Gold Obmen",
+      "url": "https://goldobmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обмен24",
+      "caption": "Обмен 24",
+      "url": "https://xn--24-9kcq8ahd.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "UltraChange24",
+      "caption": "UltraChange 24",
+      "url": "https://ultrachange24.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обмен.cc",
+      "caption": "Обмен.cc",
+      "url": "https://obmen.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "QuickChange",
+      "caption": "QuickChange",
+      "url": "https://quickchange.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "PM-Obmen",
+      "caption": "PM Obmen",
+      "url": "https://pm-obmen.tv",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CryptoBox",
+      "caption": "CryptoBox",
+      "url": "https://cryptobox.in.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "V-Obmen24",
+      "caption": "V-Obmen 24",
+      "url": "https://v-obmen24.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ExchangeYourMoney",
+      "caption": "ExchangeYourMoney",
+      "url": "https://exchangeyourmoney.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Об-мен",
+      "caption": "Об-мен",
+      "url": "https://ob-men.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "FastExchange",
+      "caption": "FastExchange",
+      "url": "https://fastexchange.center",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "E-Obmen",
+      "caption": "E-Obmen",
+      "url": "https://e-obmen.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "HoBit",
+      "caption": "HoBit",
+      "url": "https://hobit.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Best-Obmen",
+      "caption": "Best Obmen",
+      "url": "https://best-obmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "КупиБит",
+      "caption": "КупиБит",
+      "url": "https://kupibit.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Конверт",
+      "caption": "Конверт",
+      "url": "https://konvert.im",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitPayes",
+      "caption": "BitPayes",
+      "url": "https://bitpayes.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Transfer24",
+      "caption": "Transfer 24",
+      "url": "https://transfer24.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WorldChange",
+      "caption": "WorldChange",
+      "url": "https://worldchange.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Easy-Changer",
+      "caption": "Easy Changer",
+      "url": "https://easy-changer.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ArmChange",
+      "caption": "ArmChange",
+      "url": "https://idram.armchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitPride-Exchange",
+      "caption": "BitPride Exchange",
+      "url": "https://bitpride-exchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MasterChange",
+      "caption": "MasterChange",
+      "url": "https://master-change.com.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "JPMarket",
+      "caption": "JP Market",
+      "url": "https://jpmarket.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Z-Obmen",
+      "caption": "Z-Obmen",
+      "url": "https://z-obmen.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BTC2Pay",
+      "caption": "BTC 2 Pay",
+      "url": "https://btc2pay.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "LasloBit",
+      "caption": "LasloBit",
+      "url": "https://laslobit.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "RocketChange",
+      "caption": "RocketChange",
+      "url": "https://rocketchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Vilkov",
+      "caption": "Vilkov",
+      "url": "https://vilkov.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Ex-Bank",
+      "caption": "Ex-Bank",
+      "url": "https://ex-bank.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "24Обмен",
+      "caption": "24 Обмен",
+      "url": "https://24obmen.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "AllTrustMe",
+      "caption": "AllTrustMe",
+      "url": "https://alltrust.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "NiceChange",
+      "caption": "NiceChange",
+      "url": "https://nicechange.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "OpenChange",
+      "caption": "OpenChange",
+      "url": "https://openchange.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitHunter",
+      "caption": "BitHunter",
+      "url": "https://bithunter.io",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Payforia",
+      "caption": "Payforia",
+      "url": "https://payforia.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Trust7",
+      "caption": "Trust 7",
+      "url": "https://trust7.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CashTransfers",
+      "caption": "CashTransfers",
+      "url": "https://cash-transfers.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Rapid-Obmen",
+      "caption": "Rapid Obmen",
+      "url": "https://rapid-obmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Trust-Changer",
+      "caption": "Trust Changer",
+      "url": "https://trust-changer.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "RuChange",
+      "caption": "RuChange",
+      "url": "https://ru-change.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bit-Exchange",
+      "caption": "Bit Exchange",
+      "url": "https://bit-exchange.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BTC-Online",
+      "caption": "BTC Online",
+      "url": "https://btc-online.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "GeeExchange",
+      "caption": "GeeExchange",
+      "url": "https://geeexchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "PushPayer",
+      "caption": "PushPayer",
+      "url": "https://pushpayer.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Криптообменник",
+      "caption": "Криптообменник",
+      "url": "https://cryptoobmennik.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "AllCash",
+      "caption": "All Cash",
+      "url": "https://all.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MinedTrade",
+      "caption": "MinedTrade",
+      "url": "https://minedtrade.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "SberBit",
+      "caption": "SberBit",
+      "url": "https://sberbit.spb.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WMSell",
+      "caption": "WM Sell",
+      "url": "https://wmsell.biz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ChangeCoins",
+      "caption": "ChangeCoins",
+      "url": "https://changecoins.io",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Pay-Today",
+      "caption": "Pay Today",
+      "url": "https://pay-today.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BestCoin",
+      "caption": "BestCoin",
+      "url": "https://bestcoin.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BigBank",
+      "caption": "BigBank",
+      "url": "https://bigbank.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "LiCash",
+      "caption": "LiCash",
+      "url": "https://licash.top",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обменка",
+      "caption": "Обменка",
+      "url": "https://obmenka.online",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Crypto-Store",
+      "caption": "Crypto Store",
+      "url": "https://crypto-store.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "SpbWMCasher",
+      "caption": "Spb WM Casher",
+      "url": "https://spbwmcasher.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitBits",
+      "caption": "BitBits",
+      "url": "https://bitbits.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обменио",
+      "caption": "Обменио",
+      "url": "https://obmen.io",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Staff-Obmen",
+      "caption": "Staff Obmen",
+      "url": "https://staff-obmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WMChange",
+      "caption": "WM Change",
+      "url": "https://wmchange.in.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "AlfaCashier",
+      "caption": "AlfaCashier",
+      "url": "https://www.alfacashier.io",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "N-Change",
+      "caption": "N-Change",
+      "url": "https://n-change.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "UniCash",
+      "caption": "UniCash",
+      "url": "https://unicash.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Mercuryo",
+      "caption": "Mercuryo",
+      "url": "https://bestchange.mercuryo.io",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WM007",
+      "caption": "WM 007",
+      "url": "https://wm007.kz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "InTo",
+      "caption": "InTo",
+      "url": "https://in-to.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Obmen4you",
+      "caption": "Obmen4you",
+      "url": "https://obmen4you.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "МультиВал",
+      "caption": "МультиВал",
+      "url": "https://multival.is",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ObmenoFF",
+      "caption": "ObmenoFF",
+      "url": "https://obmenoff.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Tec-Bit",
+      "caption": "Tec Bit",
+      "url": "https://tec-bit.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "HotRate",
+      "caption": "HotRate",
+      "url": "https://hotrate.io",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "1Exchanger",
+      "caption": "1 Exchanger",
+      "url": "https://1exchanger.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Your-Coins",
+      "caption": "Your Coins",
+      "url": "https://your-coins.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BuyBit",
+      "caption": "BuyBit",
+      "url": "https://buybit.su",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "GoodObmen",
+      "caption": "GoodObmen",
+      "url": "https://goodobmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Z-Exchange",
+      "caption": "Z-Exchange",
+      "url": "https://z-exchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "SwapCoin",
+      "caption": "SwapCoin",
+      "url": "https://swapcoin.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "A1Change",
+      "caption": "A1 Change",
+      "url": "https://a1change.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CryptoMoney",
+      "caption": "CryptoMoney",
+      "url": "https://cryptomoney.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ChBy",
+      "caption": "ChBy",
+      "url": "https://chby.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "PayBTC",
+      "caption": "PayBTC",
+      "url": "https://paybtc.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "RoyalCash",
+      "caption": "RoyalCash",
+      "url": "https://royal.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "E-Scrooge",
+      "caption": "E-Scrooge",
+      "url": "https://e-scrooge.is",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "100BtcKiev",
+      "caption": "100 BtcKiev",
+      "url": "https://100btc.kiev.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Ru-Bas",
+      "caption": "Ru-Bas",
+      "url": "https://www.ru-bas.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CoinShop24",
+      "caption": "CoinShop 24",
+      "url": "https://coinshop24.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Coin-Bank",
+      "caption": "Coin Bank",
+      "url": "https://coin-bank.co",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Е-Деньги",
+      "caption": "Е-Деньги",
+      "url": "https://e-dengi.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Coinex24",
+      "caption": "Coinex 24",
+      "url": "https://coinex24.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Babasiki",
+      "caption": "Babasiki",
+      "url": "https://babasiki.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обменник.ua",
+      "caption": "Обменник.ua",
+      "url": "https://obmennik.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "5Минут",
+      "caption": "5 Минут",
+      "url": "https://5min.su",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CoinPayMaster",
+      "caption": "CoinPayMaster",
+      "url": "https://coinpaymaster.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "XMoney",
+      "caption": "XMoney",
+      "url": "https://www.xmoney.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "СуперОбменка",
+      "caption": "СуперОбменка",
+      "url": "https://superobmenka.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bixter",
+      "caption": "Bixter",
+      "url": "https://bixter.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ObmenMoney",
+      "caption": "ObmenMoney",
+      "url": "https://obmen.money",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "FastEx",
+      "caption": "FastEx",
+      "url": "https://fastexchange.center",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "PMCash",
+      "caption": "PM Cash",
+      "url": "https://pmcash.kz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Qipri",
+      "caption": "Qipri",
+      "url": "https://qipri.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Change-X",
+      "caption": "Change-X",
+      "url": "https://change-x.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bitcoin24SU",
+      "caption": "Bitcoin 24 SU",
+      "url": "https://bitcoin24.su",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WmBox",
+      "caption": "WmBox",
+      "url": "https://wmbox.com.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "iChanger",
+      "caption": "iChanger",
+      "url": "https://ichanger.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "RuBitok",
+      "caption": "RuBitok",
+      "url": "https://rubitok.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "TraiderIdeal",
+      "caption": "TraiderIdeal",
+      "url": "https://traiderideal.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Platov",
+      "caption": "Platov",
+      "url": "https://platov.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitObmen",
+      "caption": "BitObmen",
+      "url": "https://bitobmen.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "50Cents",
+      "caption": "50 Cents",
+      "url": "https://50cents.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "AllChange24",
+      "caption": "AllChange 24",
+      "url": "https://allchange24.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "AnonEx",
+      "caption": "AnonEx",
+      "url": "https://anonex.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MagneticExchange",
+      "caption": "MagneticExchange",
+      "url": "https://magneticexchange.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "O-Paxum",
+      "caption": "O-Paxum",
+      "url": "https://o-paxum.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Lionex",
+      "caption": "Lionex",
+      "url": "https://lionex.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Treddr",
+      "caption": "Treddr",
+      "url": "https://treddr.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Сумма",
+      "caption": "Сумма",
+      "url": "https://summa.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Fair-Exchange",
+      "caption": "Fair Exchange",
+      "url": "https://fair-exchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "SuperChangeNet",
+      "caption": "SuperChangeNet",
+      "url": "https://superchange.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bitcoin24Exchange",
+      "caption": "Bitcoin24Exchange",
+      "url": "https://bitcoin24.exchange",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "AllWMCash",
+      "caption": "AllWMCash",
+      "url": "https://allwm.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Criptify",
+      "caption": "Criptify",
+      "url": "https://criptify.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "DarkVIP",
+      "caption": "DarkVIP",
+      "url": "https://darkvip.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ElectronExchange",
+      "caption": "ElectronExchange",
+      "url": "https://electronexchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Echange",
+      "caption": "Echange",
+      "url": "https://echange.su",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BTC-Обменник",
+      "caption": "BTC-Обменник",
+      "url": "https://btc-obmennik.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Keine-Exchange",
+      "caption": "Keine Exchange",
+      "url": "https://keine-exchange.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BuyBank",
+      "caption": "BuyBank",
+      "url": "https://buybank.io",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ObmennCom",
+      "caption": "ObmennCom",
+      "url": "https://obmenn.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BtcChange24",
+      "caption": "BtcChange 24",
+      "url": "https://www.btcchange24.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ExchangeX",
+      "caption": "ExchangeX",
+      "url": "https://exchangex.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "A-Exchange",
+      "caption": "A-Exchange",
+      "url": "https://a-exchange.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "FlyChange",
+      "caption": "FlyChange",
+      "url": "https://flychange.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "XbitMoney",
+      "caption": "XbitMoney",
+      "url": "https://xbit.money",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitPro",
+      "caption": "BitPro",
+      "url": "https://bitpro.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "RamonCash",
+      "caption": "RamonCash",
+      "url": "https://ramon.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BTCstaff",
+      "caption": "BTCstaff",
+      "url": "https://btcstaff.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Vmex",
+      "caption": "Vmex",
+      "url": "https://vmex.info",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WMCentre",
+      "caption": "WMCentre",
+      "url": "https://wmcentre.kz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "2x2Change",
+      "caption": "2x2 Change",
+      "url": "https://2x2change.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MoneyMix",
+      "caption": "MoneyMix",
+      "url": "https://moneymix.biz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ObmenCash",
+      "caption": "ObmenCash",
+      "url": "https://obmen.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WMCash",
+      "caption": "WM Cash",
+      "url": "https://spbwmcasher.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WMChange24",
+      "caption": "WMChange 24",
+      "url": "https://wmchange24.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WmPayCash",
+      "caption": "WmPayCash",
+      "url": "https://wmpaycash.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CashAdmin",
+      "caption": "CashAdmin",
+      "url": "https://cashadmin.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "LiteObmen",
+      "caption": "LiteObmen",
+      "url": "https://liteobmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MultiChange",
+      "caption": "MultiChange",
+      "url": "https://multichange.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "КриптоРай",
+      "caption": "КриптоРай",
+      "url": "https://cryptor.ai",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bittrend",
+      "caption": "Bittrend",
+      "url": "https://bittrend.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CoinGuru",
+      "caption": "CoinGuru",
+      "url": "https://coinguru.pw",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "RealExchange",
+      "caption": "RealExchange",
+      "url": "https://real-exchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ОбменОМ",
+      "caption": "ОбменОМ",
+      "url": "https://obmenom.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Coins-Trade",
+      "caption": "Coins Trade",
+      "url": "https://coins-trade.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitStore",
+      "caption": "BitStore",
+      "url": "https://bitstore.ws",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BonkyPay",
+      "caption": "BonkyPay",
+      "url": "https://bonkypay.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bit-Plant",
+      "caption": "Bit Plant",
+      "url": "https://bit-plant.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Алтын",
+      "caption": "Алтын",
+      "url": "https://altin.su",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "LiveTrader",
+      "caption": "LiveTrader",
+      "url": "https://livetrader.online",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Paspar",
+      "caption": "Paspar",
+      "url": "https://paspar.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ExMoney",
+      "caption": "ExMoney",
+      "url": "https://exmoney.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitCash",
+      "caption": "BitCash",
+      "url": "https://bitcash.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Perfect-Change",
+      "caption": "Perfect Change",
+      "url": "https://perfect-change.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Big-Changer",
+      "caption": "Big Changer",
+      "url": "https://big-changer.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обменник24",
+      "caption": "Обменник 24",
+      "url": "https://obmennik24.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "FixedFloat",
+      "caption": "FixedFloat",
+      "url": "https://fixedfloat.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "LeoExchanger",
+      "caption": "LeoExchanger",
+      "url": "https://leoexchanger.top",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Changer4u",
+      "caption": "Changer4u",
+      "url": "https://changer4u.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CryptoChange24",
+      "caption": "CryptoChange 24",
+      "url": "https://cryptochange24.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ObmenLite24",
+      "caption": "ObmenLite 24",
+      "url": "https://obmenlite24.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ExchangeTeam",
+      "caption": "ExchangeTeam",
+      "url": "https://exchangeteam.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "XMLGold",
+      "caption": "XML Gold",
+      "url": "https://www.xmlgold.eu",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "FavoriteExchanger",
+      "caption": "FavoriteExchanger",
+      "url": "https://favorite-exchanger.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MoneyChange",
+      "caption": "MoneyChange",
+      "url": "https://money-change.biz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WMZ",
+      "caption": "WMZ",
+      "url": "https://wmz.one",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Makoli",
+      "caption": "Makoli",
+      "url": "https://makoli.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MyChanger",
+      "caption": "MyChanger",
+      "url": "https://mychanger.biz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MegaBestObmen",
+      "caption": "MegaBestObmen",
+      "url": "https://www.megabestobmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "SafePay",
+      "caption": "SafePay",
+      "url": "https://safepay.com.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CryptoBarMen",
+      "caption": "CryptoBarMen",
+      "url": "https://cryptobar.men",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BTCBank",
+      "caption": "BTC Bank",
+      "url": "https://btcbank.com.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CoinChanger",
+      "caption": "CoinChanger",
+      "url": "https://coinchanger.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CryptoBar",
+      "caption": "CryptoBar",
+      "url": "https://cryptobar.men",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BtcTenge",
+      "caption": "BtcTenge",
+      "url": "https://btctenge.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Micro-exchange",
+      "caption": "Micro exchange",
+      "url": "https://micro-exchange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Матби",
+      "caption": "Матби",
+      "url": "https://matbea.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ChangerClub",
+      "caption": "ChangerClub",
+      "url": "https://changer.club",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MChange",
+      "caption": "MChange",
+      "url": "https://wmchange.in.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "InternetMoney",
+      "caption": "InternetMoney",
+      "url": "https://internetmoney.exchange",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BestObmen",
+      "caption": "BestObmen",
+      "url": "https://www.megabestobmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Magnatus",
+      "caption": "Magnatus",
+      "url": "https://magnatus.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "HASchange",
+      "caption": "HASchange",
+      "url": "https://haschange.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Биток777",
+      "caption": "Биток 777",
+      "url": "https://bitok777.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "4ange",
+      "caption": "4 ange",
+      "url": "https://4ange.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "PayWallet",
+      "caption": "PayWallet",
+      "url": "https://paywallet.cc",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обменник-UZ",
+      "caption": "Обменник-UZ",
+      "url": "https://obmennik-uz.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "CryptoBroker",
+      "caption": "CryptoBroker",
+      "url": "https://cryptobroker.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Delets",
+      "caption": "Delets",
+      "url": "https://delets.online",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "EliteObmen",
+      "caption": "EliteObmen",
+      "url": "https://eliteobmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bonanza-Obmen",
+      "caption": "Bonanza Obmen",
+      "url": "https://bonanza-obmen.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MegaChange",
+      "caption": "MegaChange",
+      "url": "https://www.megachange.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "N-Obmen",
+      "caption": "N-Obmen",
+      "url": "https://n-obmen.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ExpoChange",
+      "caption": "ExpoChange",
+      "url": "https://expochange.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "IceBTC",
+      "caption": "IceBTC",
+      "url": "https://icebtc.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "LuxObmenka",
+      "caption": "LuxObmenka",
+      "url": "https://luxobmenka.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "EuroBit",
+      "caption": "EuroBit",
+      "url": "https://eurobitcoins.org",
+      "partner": false,
+      "born": 1490950800000,
+      "country": "Великобритания"
+    },
+    {
+      "name": "Coin-Future",
+      "caption": "Coin Future",
+      "url": "https://coin-future.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BTC2WM",
+      "caption": "BTC2WM",
+      "url": "https://btc2wm.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Турбина",
+      "caption": "Турбина",
+      "url": "https://2rbina.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "IndaCoin",
+      "caption": "IndaCoin",
+      "url": "https://indacoin.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MixBarter",
+      "caption": "MixBarter",
+      "url": "https://mixbarter.com",
+      "partner": false,
+      "born": 1535706000000,
+      "country": "Чехия"
+    },
+    {
+      "name": "C1kWorld",
+      "caption": "C1k World",
+      "url": "https://c1k.world",
+      "partner": false,
+      "born": 1514710800000,
+      "country": "Украина"
+    },
+    {
+      "name": "VIPchanger",
+      "caption": "VIPchanger",
+      "url": "https://vipchanger.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WmMoney",
+      "caption": "WmMoney",
+      "url": "https://wm.money",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Bit-Обменка",
+      "caption": "Bit Обменка",
+      "url": "https://bit-obmenka.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "7Pay",
+      "caption": "7 Pay",
+      "url": "https://7pay.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BrokenBit",
+      "caption": "BrokenBit",
+      "url": "https://brokenbit.xyz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "VIP-Obmen",
+      "caption": "VIP Obmen",
+      "url": "https://vip-obmen.money",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обменник.ру",
+      "caption": "Обменник.ру",
+      "url": "https://obmennik.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ОбменДенег",
+      "caption": "ОбменДенег",
+      "url": "https://obmendeneg.org",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Cryptos",
+      "caption": "Cryptos",
+      "url": "https://cryptos.com.ua",
+      "partner": false,
+      "born": 1561885200000,
+      "country": "Украина"
+    },
+    {
+      "name": "Midas24",
+      "caption": "Midas 24",
+      "url": "https://midas24.biz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "JoJoCash",
+      "caption": "JoJoCash",
+      "url": "https://jojo.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "EmExchanger",
+      "caption": "EmExchanger",
+      "url": "https://emexchanger.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "UltraChange",
+      "caption": "UltraChange",
+      "url": "https://ultrachange24.com",
+      "partner": false,
+      "born": 1398848400000,
+      "country": "Украина"
+    },
+    {
+      "name": "Ym-Change",
+      "caption": "Ym-Change",
+      "url": "https://ym-change.com",
+      "partner": false,
+      "born": 1483174800000,
+      "country": "Украина"
+    },
+    {
+      "name": "Changelly",
+      "caption": "Changelly",
+      "url": "https://changelly.com",
+      "partner": false,
+      "born": 1427792400000,
+      "country": "Мальта"
+    },
+    {
+      "name": "BTC2PM",
+      "caption": "BTC2PM",
+      "url": "https://btc2pm.me",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Обменочка",
+      "caption": "Обменочка",
+      "url": "https://obmenochka.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "SuperChange",
+      "caption": "SuperChange",
+      "url": "https://superchange.net",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "TytCash",
+      "caption": "TytCash",
+      "url": "https://tyt.cash",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "PayBis",
+      "caption": "PayBis",
+      "url": "https://paybis.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "HD-Change",
+      "caption": "HD-Change",
+      "url": "https://hd-change.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "AcryptoExchange",
+      "caption": "AcryptoExchange",
+      "url": "https://acryptoexchange.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Cryptonex",
+      "caption": "Cryptonex",
+      "url": "https://cryptonex.top",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Vinza",
+      "caption": "Vinza",
+      "url": "https://vinza.net",
+      "partner": false,
+      "born": 1501491600000,
+      "country": "Россия"
+    },
+    {
+      "name": "Меняйко",
+      "caption": "Меняйко",
+      "url": "https://xn--e1aidfgi0j.com.ua",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Obmening",
+      "caption": "Obmening",
+      "url": "https://www.obmening.ru",
+      "partner": false,
+      "born": 1264928400000,
+      "country": "Россия"
+    },
+    {
+      "name": "CashOut",
+      "caption": "CashOut",
+      "url": "https://cashout.biz",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "ObmenTech",
+      "caption": "ObmenTech",
+      "url": "https://obmen.tech",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "MidasExchange",
+      "caption": "MidasExchange",
+      "url": "https://midas.exchange",
+      "partner": false,
+      "born": 1533027600000,
+      "country": "Украина"
+    },
+    {
+      "name": "R-Obmen",
+      "caption": "R-Obmen",
+      "url": "https://r-obmen.ru",
+      "partner": false,
+      "born": 1477904400000,
+      "country": "Россия"
+    },
+    {
+      "name": "ChangeAM",
+      "caption": "ChangeAM",
+      "url": "https://www.change.am",
+      "partner": false,
+      "born": 1136019600000,
+      "country": "Армения"
+    },
+    {
+      "name": "Fenix-Pay",
+      "caption": "Fenix Pay",
+      "url": "https://fenix-pay.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "КазОбмен",
+      "caption": "КазОбмен",
+      "url": "https://kazobmen.ru",
+      "partner": false,
+      "born": 1454230800000,
+      "country": "Казахстан"
+    },
+    {
+      "name": "Bit4Sale",
+      "caption": "Bit4Sale",
+      "url": "https://bit4.sale",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "BitcoinsMD",
+      "caption": "BitcoinsMD",
+      "url": "https://online.bitcoins.md",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Flash-Cache",
+      "caption": "Flash Cache",
+      "url": "https://flash-cache.com",
+      "partner": false,
+      "born": 1525078800000,
+      "country": "Украина"
+    },
+    {
+      "name": "Cryptex24",
+      "caption": "Cryptex 24",
+      "url": "https://cryptex24.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "My-Xchange",
+      "caption": "My-Xchange",
+      "url": "https://my-xchange.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Exwp",
+      "caption": "Exwp",
+      "url": "https://exwp.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "99Francs",
+      "caption": "99 Francs",
+      "url": "https://99francs.pro",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Tivaz",
+      "caption": "Tivaz",
+      "url": "https://tivaz.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "Cryptex",
+      "caption": "Cryptex",
+      "url": "https://cryptex24.com",
+      "partner": false,
+      "born": 1406797200000,
+      "country": "Великобритания"
+    },
+    {
+      "name": "ChangeTime",
+      "caption": "ChangeTime",
+      "url": "https://changetime.ru",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "WMCasher",
+      "caption": "WM Casher",
+      "url": "https://spbwmcasher.ru",
+      "partner": false,
+      "born": 1443603600000,
+      "country": "Россия"
+    },
+    {
+      "name": "WuBill",
+      "caption": "WuBill",
+      "url": "https://wubill.com",
+      "partner": false,
+      "born": 0
+    },
+    {
+      "name": "1Change",
+      "caption": "1 Change",
+      "url": "https://a1change.com",
+      "partner": false,
+      "born": 1404118800000,
+      "country": "Германия"
+    },
+    {
+      "name": "Обменник.ws",
+      "caption": "Обменник.ws",
+      "url": "https://obmennik.ws",
+      "partner": false,
+      "born": 1267347600000,
+      "country": "США"
+    },
+    {
+      "name": "4Exchange",
+      "caption": "4 Exchange",
+      "url": "https://4ex.cash",
+      "partner": false,
+      "born": 1501491600000,
+      "country": "Россия"
+    },
+    {
+      "name": "M-Obmen",
+      "caption": "M-Obmen",
+      "url": "https://pm-obmen.tv",
+      "partner": false,
+      "born": 0
     }
   ],
   "wallets": [
     {
-      "service_name": "Сбербанк",
-      "short_name": "RUB",
-      "host_id": "sberbank"
-    },
-    {
-      "service_name": "Яндекс Деньги",
-      "short_name": "RUB",
-      "host_id": "yandex-money"
-    },
-    {
-      "service_name": "Bitcoin",
+      "name": "Bitcoin",
       "short_name": "BTC",
-      "host_id": "bitcoin"
+      "host_id": "bitcoin",
+      "common": true
     },
     {
-      "service_name": "Ethereum",
+      "name": "Bitcoin Cash",
+      "short_name": "BCH",
+      "host_id": "bitcoin-cash",
+      "common": false
+    },
+    {
+      "name": "Bitcoin SV",
+      "short_name": "BSV",
+      "host_id": "bitcoin-sv",
+      "common": false
+    },
+    {
+      "name": "Bitcoin Gold",
+      "short_name": "BTG",
+      "host_id": "bitcoin-gold",
+      "common": false
+    },
+    {
+      "name": "Ethereum",
       "short_name": "ETH",
-      "host_id": "ethereum"
+      "host_id": "ethereum",
+      "common": true
     },
     {
-      "service_name": "Litecoin",
+      "name": "Ether Classic",
+      "short_name": "ETC",
+      "host_id": "ethereum-classic",
+      "common": false
+    },
+    {
+      "name": "Litecoin",
       "short_name": "LTC",
-      "host_id": "litecoin"
+      "host_id": "litecoin",
+      "common": true
+    },
+    {
+      "name": "Ripple",
+      "short_name": "XRP",
+      "host_id": "ripple",
+      "common": false
+    },
+    {
+      "name": "Monero",
+      "short_name": "XMR",
+      "host_id": "monero",
+      "common": false
+    },
+    {
+      "name": "Dogecoin",
+      "short_name": "DOGE",
+      "host_id": "dogecoin",
+      "common": false
+    },
+    {
+      "name": "Peercoin",
+      "short_name": "PPC",
+      "host_id": "peercoin",
+      "common": false
+    },
+    {
+      "name": "Dash",
+      "short_name": "DASH",
+      "host_id": "dash",
+      "common": false
+    },
+    {
+      "name": "Zcash",
+      "short_name": "ZEC",
+      "host_id": "zcash",
+      "common": false
+    },
+    {
+      "name": "Tether",
+      "short_name": "USDT",
+      "host_id": "tether",
+      "common": false
+    },
+    {
+      "name": "Tether ERC20",
+      "short_name": "USDT",
+      "host_id": "tether-erc20",
+      "common": false
+    },
+    {
+      "name": "USD Coin",
+      "short_name": "USDC",
+      "host_id": "usd-coin",
+      "common": false
+    },
+    {
+      "name": "TrueUSD",
+      "short_name": "TUSD",
+      "host_id": "trueusd",
+      "common": false
+    },
+    {
+      "name": "Paxos",
+      "host_id": "paxos",
+      "short_name": "PAX",
+      "common": false
+    },
+    {
+      "name": "NEM",
+      "host_id": "nem",
+      "short_name": "XEM",
+      "common": false
+    },
+    {
+      "name": "Augur",
+      "host_id": "augur",
+      "short_name": "REP",
+      "common": false
+    },
+    {
+      "name": "NEO",
+      "host_id": "neo",
+      "short_name": "NEO",
+      "common": false
+    },
+    {
+      "name": "EOS",
+      "host_id": "eos",
+      "short_name": "EOS",
+      "common": false
+    },
+    {
+      "name": "IOTA",
+      "host_id": "iota",
+      "short_name": "MIOTA",
+      "common": false
+    },
+    {
+      "name": "Lisk",
+      "host_id": "lisk",
+      "short_name": "LSK",
+      "common": false
+    },
+    {
+      "name": "Cardano",
+      "host_id": "cardano",
+      "short_name": "ADA",
+      "common": false
+    },
+    {
+      "name": "Stellar",
+      "host_id": "stellar",
+      "short_name": "XLM",
+      "common": false
+    },
+    {
+      "name": "Bytecoin",
+      "host_id": "bytecoin",
+      "short_name": "BCN",
+      "common": false
+    },
+    {
+      "name": "TRON",
+      "host_id": "tron",
+      "short_name": "TRX",
+      "common": false
+    },
+    {
+      "name": "Waves",
+      "host_id": "waves",
+      "short_name": "WAVES",
+      "common": false
+    },
+    {
+      "name": "OmiseGO",
+      "host_id": "omg",
+      "short_name": "OMG",
+      "common": false
+    },
+    {
+      "name": "Verge",
+      "host_id": "verge",
+      "short_name": "XVG",
+      "common": false
+    },
+    {
+      "name": "0x",
+      "host_id": "zrx",
+      "short_name": "ZRX",
+      "common": false
+    },
+    {
+      "name": "Binance Coin",
+      "host_id": "binance-coin",
+      "short_name": "BNB",
+      "common": false
+    },
+    {
+      "name": "ICON",
+      "host_id": "icon",
+      "short_name": "ICX",
+      "common": false
+    },
+    {
+      "name": "Komodo",
+      "host_id": "komodo",
+      "short_name": "KMD",
+      "common": false
+    },
+    {
+      "name": "BitTorrent",
+      "host_id": "bittorrent",
+      "short_name": "BTT",
+      "common": false
+    },
+    {
+      "name": "BAT",
+      "host_id": "bat",
+      "short_name": "BAT",
+      "common": false
+    },
+    {
+      "name": "Ontology",
+      "host_id": "ontology",
+      "short_name": "ONT",
+      "common": false
+    },
+    {
+      "name": "Qtum",
+      "host_id": "qtum",
+      "short_name": "QTUM",
+      "common": false
+    },
+    {
+      "name": "QIWI",
+      "host_id": "qiwi",
+      "short_name": "RUB",
+      "common": true
+    },
+    {
+      "name": "QIWI",
+      "host_id": "qiwi-usd",
+      "short_name": "USD",
+      "common": false
+    },
+    {
+      "name": "QIWI",
+      "host_id": "qiwi-euro",
+      "short_name": "EUR",
+      "common": false
+    },
+    {
+      "name": "QIWI",
+      "host_id": "qiwi-kzt",
+      "short_name": "KZT",
+      "common": false
+    },
+    {
+      "name": "Яндекс Деньги",
+      "host_id": "yandex-money",
+      "short_name": "RUB",
+      "common": true
+    },
+    {
+      "name": "WebMoney",
+      "host_id": "wmz",
+      "short_name": "WMZ",
+      "common": false
+    },
+    {
+      "name": "WebMoney",
+      "host_id": "wmr",
+      "short_name": "WMR",
+      "common": false
+    },
+    {
+      "name": "WebMoney",
+      "host_id": "wme",
+      "short_name": "WME",
+      "common": false
+    },
+    {
+      "name": "Paymer",
+      "short_name": "USD",
+      "host_id": "paymer",
+      "common": false
+    },
+    {
+      "name": "Paymer",
+      "short_name": "RUB",
+      "host_id": "paymer-rub",
+      "common": false
+    },
+    {
+      "name": "Perfect Money",
+      "short_name": "USD",
+      "host_id": "perfectmoney-usd",
+      "common": false
+    },
+    {
+      "name": "Perfect Money",
+      "short_name": "EUR",
+      "host_id": "perfectmoney-eur",
+      "common": false
+    },
+    {
+      "name": "Perfect Money",
+      "short_name": "BTC",
+      "host_id": "perfectmoney-btc",
+      "common": false
+    },
+    {
+      "name": "PM e-Voucher",
+      "short_name": "USD",
+      "host_id": "pm-voucher",
+      "common": false
+    },
+    {
+      "name": "PayPal",
+      "short_name": "USD",
+      "host_id": "paypal-usd",
+      "common": false
+    },
+    {
+      "name": "PayPal",
+      "short_name": "RUB",
+      "host_id": "paypal-rub",
+      "common": false
+    },
+    {
+      "name": "PayPal",
+      "short_name": "EUR",
+      "host_id": "paypal-euro",
+      "common": false
+    },
+    {
+      "name": "Advanced Cash",
+      "host_id": "advanced-cash",
+      "short_name": "USD",
+      "common": false
+    },
+    {
+      "name": "Advanced Cash",
+      "host_id": "advanced-cash-rub",
+      "short_name": "RUB",
+      "common": false
+    },
+    {
+      "name": "Advanced Cash",
+      "host_id": "advanced-cash-euro",
+      "short_name": "EUR",
+      "common": false
+    },
+    {
+      "name": "Advanced Cash",
+      "host_id": "advanced-cash-uah",
+      "short_name": "UAH",
+      "common": false
+    },
+    {
+      "name": "Advanced Cash",
+      "host_id": "advanced-cash-kzt",
+      "short_name": "KZT",
+      "common": false
+    },
+    {
+      "name": "Payeer",
+      "short_name": "USD",
+      "host_id": "payeer",
+      "common": false
+    },
+    {
+      "name": "Payeer",
+      "short_name": "RUB",
+      "host_id": "payeer-rub",
+      "common": false
+    },
+    {
+      "name": "Payeer",
+      "short_name": "EUR",
+      "host_id": "payeer-euro",
+      "common": false
+    },
+    {
+      "name": "Skrill",
+      "short_name": "USD",
+      "host_id": "skrill",
+      "common": false
+    },
+    {
+      "name": "Skrill",
+      "short_name": "EUR",
+      "host_id": "skrill-euro",
+      "common": false
+    },
+    {
+      "name": "Paxum",
+      "short_name": "USD",
+      "host_id": "paxum",
+      "common": false
+    },
+    {
+      "name": "Capitalist",
+      "short_name": "USD",
+      "host_id": "capitalist",
+      "common": false
+    },
+    {
+      "name": "Capitalist",
+      "short_name": "RUB",
+      "host_id": "capitalist-rub",
+      "common": false
+    },
+    {
+      "name": "Neteller",
+      "short_name": "USD",
+      "host_id": "neteller",
+      "common": false
+    },
+    {
+      "name": "Neteller",
+      "short_name": "EUR",
+      "host_id": "neteller-euro",
+      "common": false
+    },
+    {
+      "name": "PaySera",
+      "short_name": "USD",
+      "host_id": "paysera",
+      "common": false
+    },
+    {
+      "name": "PaySera",
+      "short_name": "EUR",
+      "host_id": "paysera-euro",
+      "common": false
+    },
+    {
+      "name": "NixMoney",
+      "short_name": "USD",
+      "host_id": "nixmoney",
+      "common": false
+    },
+    {
+      "name": "NixMoney",
+      "short_name": "EUR",
+      "host_id": "nixmoney-euro",
+      "common": false
+    },
+    {
+      "name": "GlobalMoney",
+      "short_name": "UAH",
+      "host_id": "globalmoney",
+      "common": false
+    },
+    {
+      "name": "VelesPay",
+      "short_name": "USD",
+      "host_id": "velespay",
+      "common": false
+    },
+    {
+      "name": "Epay",
+      "short_name": "USD",
+      "host_id": "epay",
+      "common": false
+    },
+    {
+      "name": "Epay",
+      "short_name": "EUR",
+      "host_id": "epay-euro",
+      "common": false
+    },
+    {
+      "name": "Alipay",
+      "short_name": "CNY",
+      "host_id": "alipay",
+      "common": false
+    },
+    {
+      "name": "ePayService",
+      "short_name": "USD",
+      "host_id": "epayservice",
+      "common": false
+    },
+    {
+      "name": "Счет телефона",
+      "short_name": "RUB",
+      "host_id": "mobile-wallet-rub",
+      "common": false
+    },
+    {
+      "name": "Счет телефона",
+      "short_name": "UAH",
+      "host_id": "mobile-wallet-uah",
+      "common": false
+    },
+    {
+      "name": "Exmo",
+      "short_name": "USD",
+      "host_id": "exmo",
+      "common": false
+    },
+    {
+      "name": "Exmo",
+      "short_name": "RUB",
+      "host_id": "exmo-rub",
+      "common": false
+    },
+    {
+      "name": "Exmo",
+      "short_name": "EUR",
+      "host_id": "exmo-euro",
+      "common": false
+    },
+    {
+      "name": "Exmo",
+      "short_name": "UAH",
+      "host_id": "exmo-uah",
+      "common": false
+    },
+    {
+      "name": "Exmo",
+      "short_name": "BTC",
+      "host_id": "exmo-btc",
+      "common": false
+    },
+    {
+      "name": "LiveCoin",
+      "short_name": "USD",
+      "host_id": "livecoin",
+      "common": false
+    },
+    {
+      "name": "LiveCoin",
+      "short_name": "RUB",
+      "host_id": "livecoin-rub",
+      "common": false
+    },
+    {
+      "name": "Сбербанк",
+      "host_id": "sberbank",
+      "short_name": "RUB",
+      "common": true
+    },
+    {
+      "name": "Альфа-Банк",
+      "host_id": "alfaclick",
+      "short_name": "RUB",
+      "common": true
+    },
+    {
+      "name": "Альфа cash-in",
+      "short_name": "USD",
+      "host_id": "alfabank-cashin-usd",
+      "common": false
+    },
+    {
+      "name": "Альфа cash-in",
+      "short_name": "RUB",
+      "host_id": "alfabank-cash-in",
+      "common": false
+    },
+    {
+      "name": "Тинькофф",
+      "host_id": "tinkoff",
+      "short_name": "RUB",
+      "common": true
+    },
+    {
+      "name": "ТКС cash-in",
+      "short_name": "RUB",
+      "host_id": "tinkoff-cash-in",
+      "common": false
+    },
+    {
+      "name": "ВТБ 24",
+      "short_name": "RUB",
+      "host_id": "vtb",
+      "common": false
+    },
+    {
+      "name": "Русский Стандарт",
+      "short_name": "RUB",
+      "host_id": "russtandart",
+      "common": false
+    },
+    {
+      "name": "Авангард",
+      "short_name": "RUB",
+      "host_id": "avangard",
+      "common": false
+    },
+    {
+      "name": "Промсвязьбанк",
+      "short_name": "RUB",
+      "host_id": "psbank",
+      "common": false
+    },
+    {
+      "name": "Газпромбанк",
+      "short_name": "RUB",
+      "host_id": "gazprombank",
+      "common": false
+    },
+    {
+      "name": "Кукуруза",
+      "short_name": "RUB",
+      "host_id": "kykyryza",
+      "common": false
+    },
+    {
+      "name": "Райффайзен",
+      "short_name": "RUB",
+      "host_id": "raiffeisen-bank",
+      "common": false
+    },
+    {
+      "name": "РНКБ",
+      "short_name": "RUB",
+      "host_id": "rnkb",
+      "common": false
+    },
+    {
+      "name": "Открытие",
+      "short_name": "RUB",
+      "host_id": "openbank",
+      "common": false
+    },
+    {
+      "name": "Рокетбанк",
+      "short_name": "RUB",
+      "host_id": "rocketbank",
+      "common": false
+    },
+    {
+      "name": "Почта Банк",
+      "short_name": "RUB",
+      "host_id": "post-bank",
+      "common": false
+    },
+    {
+      "name": "Россельхозбанк",
+      "short_name": "RUB",
+      "host_id": "rosselhozbank",
+      "common": false
+    },
+    {
+      "name": "МТС Банк",
+      "short_name": "RUB",
+      "host_id": "mts-bank",
+      "common": false
+    },
+    {
+      "name": "Приват 24",
+      "short_name": "USD",
+      "host_id": "privat24-usd",
+      "common": false
+    },
+    {
+      "name": "Приват 24",
+      "short_name": "UAH",
+      "host_id": "privat24-uah",
+      "common": true
+    },
+    {
+      "name": "Райффайзен",
+      "short_name": "UAH",
+      "host_id": "raiffeisen-bank-uah",
+      "common": false
+    },
+    {
+      "name": "Ощадбанк",
+      "short_name": "UAH",
+      "host_id": "oschadbank",
+      "common": false
+    },
+    {
+      "name": "УкрСиббанк",
+      "short_name": "UAH",
+      "host_id": "ukrsibbank",
+      "common": false
+    },
+    {
+      "name": "ПУМБ",
+      "short_name": "UAH",
+      "host_id": "pumb",
+      "common": false
+    },
+    {
+      "name": "Монобанк",
+      "short_name": "UAH",
+      "host_id": "monobank",
+      "common": false
+    },
+    {
+      "name": "Альфа-Банк",
+      "host_id": "alfabank-uah",
+      "short_name": "UAH",
+      "common": false
+    },
+    {
+      "name": "Беларусбанк",
+      "short_name": "BYN",
+      "host_id": "belarusbank",
+      "common": false
+    },
+    {
+      "name": "Казкоммерцбанк",
+      "short_name": "KZT",
+      "host_id": "kazkombank",
+      "common": false
+    },
+    {
+      "name": "HalykBank",
+      "short_name": "KZT",
+      "host_id": "halykbank",
+      "common": false
+    },
+    {
+      "name": "Сбербанк",
+      "host_id": "sberbank-kzt",
+      "short_name": "KZT",
+      "common": false
+    },
+    {
+      "name": "ForteBank",
+      "short_name": "KZT",
+      "host_id": "fortebank",
+      "common": false
+    },
+    {
+      "name": "Kaspi Bank",
+      "short_name": "KZT",
+      "host_id": "kaspi-bank",
+      "common": false
+    },
+    {
+      "name": "Visa/MasterCard",
+      "host_id": "visa-mastercard-usd",
+      "short_name": "USD",
+      "common": false
+    },
+    {
+      "name": "Visa/MasterCard",
+      "host_id": "visa-mastercard-rub",
+      "short_name": "RUB",
+      "common": true
+    },
+    {
+      "name": "Visa/MasterCard",
+      "host_id": "visa-mastercard-euro",
+      "short_name": "EUR",
+      "common": false
+    },
+    {
+      "name": "Visa/MasterCard",
+      "host_id": "visa-mastercard-uah",
+      "short_name": "UAH",
+      "common": false
+    },
+    {
+      "name": "Visa/MasterCard",
+      "host_id": "visa-mastercard-byr",
+      "short_name": "BYN",
+      "common": false
+    },
+    {
+      "name": "Visa/MasterCard",
+      "host_id": "visa-mastercard-kzt",
+      "short_name": "KZT",
+      "common": false
+    },
+    {
+      "name": "Карта Мир",
+      "host_id": "mir",
+      "short_name": "RUB",
+      "common": false
+    },
+    {
+      "name": "Любой банк",
+      "short_name": "USD",
+      "host_id": "wire-usd",
+      "common": false
+    },
+    {
+      "name": "Любой банк",
+      "short_name": "RUB",
+      "host_id": "wire-rub",
+      "common": false
+    },
+    {
+      "name": "Любой банк",
+      "short_name": "EUR",
+      "host_id": "wire-euro",
+      "common": false
+    },
+    {
+      "name": "Любой банк",
+      "short_name": "UAH",
+      "host_id": "wire-uah",
+      "common": false
+    },
+    {
+      "name": "Любой банк",
+      "short_name": "BYN",
+      "host_id": "wire-byn",
+      "common": false
+    },
+    {
+      "name": "Любой банк",
+      "short_name": "KZT",
+      "host_id": "wire-kzt",
+      "common": false
+    },
+    {
+      "name": "Sepa",
+      "short_name": "EUR",
+      "host_id": "sepa",
+      "common": false
+    },
+    {
+      "name": "Счет ИП или ООО",
+      "short_name": "RUB",
+      "host_id": "settlement-rub",
+      "common": false
+    },
+    {
+      "name": "WU",
+      "short_name": "USD",
+      "host_id": "wu",
+      "common": false
+    },
+    {
+      "name": "WU",
+      "short_name": "EUR",
+      "host_id": "wu-euro",
+      "common": false
+    },
+    {
+      "name": "WU",
+      "short_name": "RUB",
+      "host_id": "wu-rub",
+      "common": false
+    },
+    {
+      "name": "MoneyGram",
+      "short_name": "USD",
+      "host_id": "moneygram",
+      "common": false
+    },
+    {
+      "name": "MoneyGram",
+      "short_name": "EUR",
+      "host_id": "moneygram-euro",
+      "common": false
+    },
+    {
+      "name": "Contact",
+      "short_name": "USD",
+      "host_id": "contact-usd",
+      "common": false
+    },
+    {
+      "name": "Contact",
+      "short_name": "RUB",
+      "host_id": "contact",
+      "common": false
+    },
+    {
+      "name": "Золотая Корона",
+      "short_name": "USD",
+      "host_id": "golden-crown-usd",
+      "common": false
+    },
+    {
+      "name": "Золотая Корона",
+      "short_name": "RUB",
+      "host_id": "golden-crown",
+      "common": false
+    },
+    {
+      "name": "Юнистрим",
+      "short_name": "USD",
+      "host_id": "unistream",
+      "common": false
+    },
+    {
+      "name": "Юнистрим",
+      "short_name": "RUB",
+      "host_id": "unistream-rub",
+      "common": false
+    },
+    {
+      "name": "Ria",
+      "short_name": "USD",
+      "host_id": "ria-usd",
+      "common": false
+    },
+    {
+      "name": "Ria",
+      "short_name": "EUR",
+      "host_id": "ria-euro",
+      "common": false
+    },
+    {
+      "name": "Наличные",
+      "short_name": "USD",
+      "host_id": "dollar-cash",
+      "common": false
+    },
+    {
+      "name": "Наличные",
+      "short_name": "RUB",
+      "host_id": "ruble-cash",
+      "common": false
+    },
+    {
+      "name": "Наличные",
+      "short_name": "EUR",
+      "host_id": "euro-cash",
+      "common": false
+    },
+    {
+      "name": "Наличные",
+      "short_name": "UAH",
+      "host_id": "hryvnia-cash",
+      "common": false
+    },
+    {
+      "name": "Наличные",
+      "short_name": "BYN",
+      "host_id": "belarus-cash",
+      "common": false
+    },
+    {
+      "name": "Наличные",
+      "short_name": "KZT",
+      "host_id": "tenge-cash",
+      "common": false
     }
   ]
 }
